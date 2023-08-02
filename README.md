@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
- <img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B"
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
+ 
  
 </div>
