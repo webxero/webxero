@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
 </div>
 
-.title{
-text-align:center
-}
+Web Application Security
+Web Exploitation
+Advanced Network Security
+Malware Development
