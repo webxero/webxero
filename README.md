@@ -18,7 +18,7 @@
 </div>
 
 ```ini
-   Software Engineering   --> Programming Security Tools 
+   Software Engineering   --> Programming Security Tools(Python, Go, C, C++)
    Hacking                --> Penetration Testing, 
                           --> Web Exploitation, Advanced Network Exploitation
                           --> Bug Hunting, Binary Exploitation
