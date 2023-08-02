@@ -1,4 +1,3 @@
-<h1 class="title">Proficient In: </h1>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/Go-00AED8.svg?style=for-the-badge&logo=go&logoColor=white">
@@ -18,7 +17,13 @@
   <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
 </div>
 
-Web Application Security
-Web Exploitation
-Advanced Network Security
-Malware Development
+```ini
+   Software Engineering   --> Programming Security Tools 
+   Hacking                --> Penetration Testing, 
+                          --> Web Exploitation, Advanced Network Exploitation
+                          --> Bug Hunting, Binary Exploitation
+   Cryptography           --> Encryption, Decryption
+   Networking             --> Networking, Network Security, Network Monitoring, VPNS, Protocol Exploitation 
+   Dev Ops                --> Docker, Databases, Grafana, Server Infrastructure, Powershell
+   Malware Developement   --> C2, PI, Nim, C++, C, x86 ASM 
+```
