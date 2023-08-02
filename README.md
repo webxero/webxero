@@ -19,5 +19,5 @@
 </div>
 
 .title{
-text-aling:center
+text-align:center
 }
