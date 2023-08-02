@@ -1,4 +1,4 @@
-<h1>BELOW IS MY SKILLS</h1>
+<h1>1.0 Experience</h1>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
